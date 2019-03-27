@@ -2,3 +2,5 @@ venv
 .idea
 **/instance
 **/.DS_Store
+**.vscode
+**.ipynb_checkpoints
