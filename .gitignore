@@ -2,3 +2,4 @@ venv
 .idea
 **/instance
 **/.DS_Store
+**.vscode
